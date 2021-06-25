@@ -1,0 +1,1 @@
+# Prediction-of-Hypothyroid-Disease-Using-Data-Mining-Techniques
